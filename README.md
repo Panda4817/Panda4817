@@ -56,9 +56,9 @@ me.say_hi()
 ## 📈 GitHub Stats
 
 <a href="https://github.com/Panda4817/Panda4817">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda4817&show_icons=true&theme=dracula&layout=compact" alt="K Munton's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda4817&show_icons=true&theme=dark&layout=compact" alt="K Munton's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Panda4817/Panda4817">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=panda4817&count_private=true&hide=stars,issues&show_icons=true&theme=dracula" alt="K Munton's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=panda4817&count_private=true&hide=stars,issues&show_icons=true&theme=dark" alt="K Munton's GitHub Stats" />
 </a>
