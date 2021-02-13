@@ -1,5 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/hello.gif" width="30px"/><img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/world.gif" width="30px"/>
 
+<a href="https://adventofcode.com/">![](https://img.shields.io/badge/%E2%9D%A4-Advent%20Of%20Code-blue)</a>
 <a href="https://www.linkedin.com/in/kmunton">![](https://img.shields.io/badge/LinkedIn-Informational?style=flat&logo=linkedin&logoColor=white&color=ff69b4)</a>
 <a href="https://codepen.io/k_munton">![](https://img.shields.io/badge/CodePen-Informational?style=flat&logo=codepen&logoColor=white&color=ff69b4)</a>
 <a href="https://repl.it/@Panda4817">![](https://img.shields.io/badge/Repl.it-Informational?style=flat&logo=repl.it&logoColor=white&color=ff69b4)</a>
@@ -23,6 +24,7 @@ class AspiringSoftwareDeveloper:
             "Testing and deployment using Heroku, Netlify and Travis-Cl"
         ]
         self.focus = "mobile development"
+        self.goal = "Advent Of Code challenges"
 
     def say_hi(self):
         print(
@@ -33,6 +35,7 @@ class AspiringSoftwareDeveloper:
 
                 I have learnt about the following: {self.knowledge_base}.
                 I am focusing on {self.focus} to expand my skill set.
+                My goal by the end of the year is to complete all {self.goal}.
                 
                 I record my achievements each month in a blog on my portfolio page, which can be found here: 
                 {self.portfolio}"""
