@@ -1,5 +1,9 @@
 # Hello World! <img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/hello.gif" width="30px"/><img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/world.gif" width="30px"/>
 
+<a href="https://www.linkedin.com/in/kmunton">![](https://img.shields.io/badge/LinkedIn-Informational?style=flat&logo=linkedin&logoColor=white&color=ff69b4)</a>
+<a href="https://codepen.io/k_munton">![](https://img.shields.io/badge/CodePen-Informational?style=flat&logo=codepen&logoColor=white&color=ff69b4)</a>
+<a href="https://repl.it/@Panda4817">![](https://img.shields.io/badge/Repl.it-Informational?style=flat&logo=repl.it&logoColor=white&color=ff69b4)</a>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -44,14 +48,18 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Web-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Travis_Cl-informational?style=flat&logo=travis-ci&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=blue)
 
 ## 📈 GitHub Stats
 
