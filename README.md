@@ -1,5 +1,5 @@
 # Hello World! 👋🌍
----
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -38,7 +38,7 @@ me = AspiringSoftwareDeveloper()
 me.say_hi()
 ```
 ## ⚙️Technologies
----
+
 ![](https://img.shields.io/badge/OS-WSL_Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=python&logoColor=white&color=blue)
@@ -54,7 +54,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
 
 ## 📈 GitHub Stats
----
+
 <a href="https://github.com/Panda4817/Panda4817">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda4817&show_icons=true&theme=dracula&layout=compact" alt="K Munton's GitHub Stats" />
 </a>
