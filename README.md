@@ -1,4 +1,4 @@
-# Hello World! <img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/hello.gif" width="50px"/><img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/world.gif" width="50px"/>
+# Hello World! <img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/hello.gif" width="30px"/><img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/world.gif" width="30px"/>
 
 ```python
 #!/usr/bin/python
