@@ -16,29 +16,30 @@ class AspiringSoftwareDeveloper:
         self.future_role = "software developer"
         self.portfolio = "https://panda4817.github.io/portfolio/"
         self.knowledge_base = [
-            "web development",
             "software development",
-            "Backend development with Python Flask, Django and Node.js",
-            "Frontend development with JavaScript and React",
+            "web development",
+            "Backend development",
+            "Frontend development",
             "SQL and NoSQL databases",
-            "Testing and deployment using Heroku, Netlify and Travis-Cl"
+            "Testing and deployment"
         ]
         self.focus = "mobile development"
         self.goal = "Advent Of Code challenges"
 
     def say_hi(self):
         print(
-                f"""Hello, I am {self.name}. Thank you for dropping by!
+            f"""Hello, I am {self.name}. Thank you for dropping by!
 
-                I currently work as a {self.current_role} but I want to be a  
-                {self.future_role}. 
+            I currently work as a {self.current_role}, 
+            but I want to be a {self.future_role}.
 
-                I have learnt about the following: {self.knowledge_base}.
-                I am focusing on {self.focus} to expand my skill set.
-                My goal by the end of the year is to complete all {self.goal}.
-                
-                I record my achievements each month in a blog on my portfolio page, which can be found here: 
-                {self.portfolio}"""
+            I have learnt about the following: {self.knowledge_base}.
+            I am focusing on {self.focus} to expand my skill set.
+            My goal by the end of the year is to complete all {self.goal}.
+            
+            I record my achievements each month in a blog on my portfolio website, 
+            which can be found here: 
+            {self.portfolio}"""
         )
 
 me = AspiringSoftwareDeveloper()
