@@ -18,10 +18,10 @@ class AspiringSoftwareDeveloper:
         self.knowledge_base = [
             "software development",
             "web development",
-            "Backend development",
-            "Frontend development",
+            "backend development",
+            "frontend development",
             "SQL and NoSQL databases",
-            "Testing and deployment"
+            "testing and deployment"
         ]
         self.focus = "mobile development"
         self.goal = "Advent Of Code challenges"
