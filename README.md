@@ -71,9 +71,11 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda4817&show_icons=true&layout=compact&theme=dracula" alt="K Munton's GitHub Stats" />
 </a>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <a href="https://github.com/Panda4817/Panda4817">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=panda4817&count_private=true&hide=stars,issues&show_icons=true&theme=dracula&hide_rank=true&include_all_commits=true" alt="K Munton's GitHub Stats" />
 </a>
+
+## 📈 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
