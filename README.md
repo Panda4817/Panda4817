@@ -9,11 +9,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class AspiringSoftwareDeveloper:
+class AspiringSoftwareEngineer:
     def __init__(self):
         self.name = "K Munton"
         self.current_role = "teacher"
-        self.future_role = "software developer"
+        self.future_role = "software engineer"
         self.portfolio = "https://panda4817.github.io/portfolio/"
         self.knowledge_base = [
             "software development",
@@ -21,7 +21,7 @@ class AspiringSoftwareDeveloper:
             "backend development",
             "frontend development",
             "SQL and NoSQL databases",
-            "testing and deployment"
+            "testing and deployment",
         ]
         self.focus = "mobile development"
         self.goal = "Advent Of Code challenges"
@@ -42,7 +42,7 @@ class AspiringSoftwareDeveloper:
             {self.portfolio}"""
         )
 
-me = AspiringSoftwareDeveloper()
+me = AspiringSoftwareEngineer()
 me.say_hi()
 ```
 ## ⚙️Technologies
