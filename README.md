@@ -93,16 +93,17 @@ me.say_hi()
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 37 mins        ████████████████████████░   98.47% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 39 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 39 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 29/06/2021
+ Last Updated on 30/06/2021
 <!--END_SECTION:waka-->
