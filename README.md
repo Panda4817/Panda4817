@@ -9,11 +9,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class AspiringSoftwareEngineer:
+class GraduateSoftwareEngineer:
     def __init__(self):
         self.name = "K Munton"
-        self.current_role = "teacher"
-        self.future_role = "software engineer"
+        self.previous_role = "teacher"
+        self.next_role = "graduate software engineer"
         self.portfolio = "https://panda4817.github.io/portfolio/"
         self.knowledge_base = [
             "software development",
@@ -30,19 +30,18 @@ class AspiringSoftwareEngineer:
         print(
             f"""Hello, I am {self.name}. Thank you for dropping by!
 
-            I currently work as a {self.current_role}, 
-            but I want to be a {self.future_role}.
+            I am changing careers from being a {self.previous_role}, 
+            to becoming a {self.next_role}.
 
             I have learnt about the following: {self.knowledge_base}.
             I am focusing on {self.focus} to expand my skill set.
-            My goal by the end of the year is to complete all {self.goal}.
+            My personal goal by the end of the year is to complete all {self.goal}.
             
-            I record my achievements each month in a blog on my portfolio website, 
-            which can be found here: 
+            My portfolio website can be found here: 
             {self.portfolio}"""
         )
 
-me = AspiringSoftwareEngineer()
+me = GraduateSoftwareEngineer()
 me.say_hi()
 ```
 ## ⚙️Technologies
