@@ -14,7 +14,7 @@ class GraduateSoftwareEngineer:
         self.name = "K Munton"
         self.previous_role = "teacher"
         self.next_role = "graduate software engineer"
-        self.portfolio = "https://panda4817.github.io/portfolio/"
+        self.portfolio = "https://wwww.kmunton.dev/"
         self.knowledge_base = [
             "software development",
             "web development",
