@@ -18,28 +18,37 @@ class GraduateSoftwareEngineer:
         self.knowledge_base = [
             "software development",
             "web development",
+            "mobile development",
             "backend development",
             "frontend development",
-            "SQL and NoSQL databases",
+            "SQL database",
+            "NoSQL database",
             "testing and deployment",
         ]
-        self.focus = "mobile development"
-        self.goal = "Advent Of Code challenges"
+        self.goal = "advent of code challenges"
 
     def say_hi(self):
+        new_line = "\n            -> "
         print(
-            f"""Hello, I am {self.name}. Thank you for dropping by!
+            f"""
+            Hello, I am {self.name}. Thank you for dropping by!
 
             I am changing careers from being a {self.previous_role}, 
             to becoming a {self.next_role}.
 
-            I have learnt about the following: {self.knowledge_base}.
-            I am focusing on {self.focus} to expand my skill set.
-            My personal goal by the end of the year is to complete all {self.goal}.
+            I have learnt about the following topics:
+            -> {new_line.join(self.knowledge_base)}
             
-            My portfolio website can be found here: 
-            {self.portfolio}"""
+            My personal goal by the end of the year 
+            is to complete all {self.goal}.
+            
+            I am continually trying to improve my skills 
+            by adding to projects or creating new ones.
+            My portfolio website can be found here:
+            {self.portfolio}
+            """
         )
+
 
 me = GraduateSoftwareEngineer()
 me.say_hi()
