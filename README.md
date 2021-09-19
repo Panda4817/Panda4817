@@ -12,8 +12,7 @@
 class GraduateSoftwareEngineer:
     def __init__(self):
         self.name = "K Munton"
-        self.previous_role = "teacher"
-        self.next_role = "graduate software engineer"
+        self.current_role = "graduate software engineer"
         self.portfolio = "https://wwww.kmunton.dev/"
         self.knowledge_base = [
             "software development",
@@ -33,8 +32,7 @@ class GraduateSoftwareEngineer:
             f"""
             Hello, I am {self.name}. Thank you for dropping by!
 
-            I am changing careers from being a {self.previous_role}, 
-            to becoming a {self.next_role}.
+            I have changed careers from teaching and I am currently a {self.current_role}.
 
             I have learnt about the following topics:
             -> {new_line.join(self.knowledge_base)}
@@ -83,10 +81,10 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=panda4817&count_private=true&hide=stars,issues&show_icons=true&theme=dracula&hide_rank=true&include_all_commits=true" alt="K Munton's GitHub Stats" />
 </a>
 
-## 📈 WakaTime Stats
+<!-- ## 📈 WakaTime Stats -->
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+<!-- **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    175 commits    █████░░░░░░░░░░░░░░░░░░░░   23.03% 
@@ -113,5 +111,5 @@ Linux                    4 hrs 53 mins       ███████████�
 ```
 
 
- Last Updated on 18/09/2021
+ Last Updated on 18/09/2021 -->
 <!--END_SECTION:waka-->
