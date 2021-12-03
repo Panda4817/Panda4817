@@ -3,7 +3,8 @@
 <a href="https://adventofcode.com/">![](https://img.shields.io/badge/%E2%9D%A4-Advent%20Of%20Code-blue)</a>
 <a href="https://www.linkedin.com/in/kmunton">![](https://img.shields.io/badge/LinkedIn-Informational?style=flat&logo=linkedin&logoColor=white&color=ff69b4)</a>
 <a href="https://codepen.io/k_munton">![](https://img.shields.io/badge/CodePen-Informational?style=flat&logo=codepen&logoColor=white&color=ff69b4)</a>
-<a href="https://repl.it/@Panda4817">![](https://img.shields.io/badge/Repl.it-Informational?style=flat&logo=repl.it&logoColor=white&color=ff69b4)</a>
+<a href="https://repl.it/@Panda4817">![](https://img.shields.io/badge/Repl.it-Informational?style=flat&logo=replit&logoColor=white&color=ff69b4)</a>
+<a href="https://www.freecodecamp.org/kmunton">![](https://img.shields.io/badge/freeCodeCamp-Informational?style=flat&logo=freecodecamp&logoColor=white&color=ff69b4)</a>
 
 ## ⚙️Technologies
 
