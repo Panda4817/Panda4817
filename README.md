@@ -5,71 +5,30 @@
 <a href="https://codepen.io/k_munton">![](https://img.shields.io/badge/CodePen-Informational?style=flat&logo=codepen&logoColor=white&color=ff69b4)</a>
 <a href="https://repl.it/@Panda4817">![](https://img.shields.io/badge/Repl.it-Informational?style=flat&logo=repl.it&logoColor=white&color=ff69b4)</a>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class GraduateSoftwareEngineer:
-    def __init__(self):
-        self.name = "K Munton"
-        self.current_role = "graduate software engineer"
-        self.portfolio = "https://wwww.kmunton.dev/"
-        self.knowledge_base = [
-            "software development",
-            "web development",
-            "mobile development",
-            "backend development",
-            "frontend development",
-            "SQL database",
-            "NoSQL database",
-            "testing and deployment",
-        ]
-        self.goal = "advent of code challenges"
-
-    def say_hi(self):
-        new_line = "\n            -> "
-        print(
-            f"""
-            Hello, I am {self.name}. Thank you for dropping by!
-
-            I have changed careers from teaching and I am currently a {self.current_role}.
-
-            I have learnt about the following topics:
-            -> {new_line.join(self.knowledge_base)}
-            
-            My personal goal by the end of the year 
-            is to complete all {self.goal}.
-            
-            I am continually trying to improve my skills 
-            by adding to projects or creating new ones.
-            My portfolio website can be found here:
-            {self.portfolio}
-            """
-        )
-
-
-me = GraduateSoftwareEngineer()
-me.say_hi()
-```
 ## ⚙️Technologies
 
 ![](https://img.shields.io/badge/OS-WSL_Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intelliJ-idea&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Web-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Travis_Cl-informational?style=flat&logo=travis-ci&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Kibana-informational?style=flat&logo=kibana&logoColor=white&color=blue)
 
 ## 📈 GitHub Stats
 
