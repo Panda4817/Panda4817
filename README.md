@@ -1,41 +1,25 @@
 # Hello World! <img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/hello.gif" width="30px"/><img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/world.gif" width="30px"/>
 
-<a href="https://adventofcode.com/">![](https://img.shields.io/badge/%E2%9D%A4-Advent%20Of%20Code-blue)</a>
-<a href="https://www.linkedin.com/in/kmunton">![](https://img.shields.io/badge/LinkedIn-Informational?style=flat&logo=linkedin&logoColor=white&color=ff69b4)</a>
-<a href="https://codepen.io/k_munton">![](https://img.shields.io/badge/CodePen-Informational?style=flat&logo=codepen&logoColor=white&color=ff69b4)</a>
-<a href="https://repl.it/@Panda4817">![](https://img.shields.io/badge/Repl.it-Informational?style=flat&logo=replit&logoColor=white&color=ff69b4)</a>
-<a href="https://www.freecodecamp.org/kmunton">![](https://img.shields.io/badge/freeCodeCamp-Informational?style=flat&logo=freecodecamp&logoColor=white&color=ff69b4)</a>
+- Enjoy going through my personal projects on GitHub
+- I love completing <a href="https://adventofcode.com/">Advent Of Code</a> challenges
+- See what I do on <a href="https://www.linkedin.com/in/kmunton">LinkedIn</a>
+- See some of my projects running on <a href="https://repl.it/@Panda4817">Repl.it</a>
+- See what I have completed on <a href="https://www.freecodecamp.org/kmunton">freeCodeCamp</a>
+- See some of my frontend work on <a href="https://codepen.io/k_munton">Codepen</a>
 
 ## ⚙️Technologies
 
-![](https://img.shields.io/badge/OS-WSL_Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intelliJ-idea&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python3-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=flask&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Web-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Travis_Cl-informational?style=flat&logo=travis-ci&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Kibana-informational?style=flat&logo=kibana&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+- Java development, with Spring Boot and Maven 
+- JavaScript and bit of TypeScript development, with React and Node
+- Python development, with Django and Flask 
+- HTML, with styling using CSS and Bootstrap
+- Version control with Git
+- Datatbase development using SQL and NoSQL
+- Deployment using Heroku, Netlify and Github Pages
+- CI and CD with Travis CI
+- Containers using Docker and a bit of Kubernetes
+- Monitoring using Kibana
+- Cloud development with a bit of AWS
 
 ## 📈 GitHub Stats
 
