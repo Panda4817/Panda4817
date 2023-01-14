@@ -2,13 +2,12 @@
 - I am a passionate self-taught software engineer
 - I love completing <a href="https://adventofcode.com/">Advent Of Code</a> challenges
 - See what I do on <a href="https://www.linkedin.com/in/kmunton">LinkedIn</a>
-- Enjoy going through my personal projects on GitHub
 
 ## ⚙️Technologies
 
 - Java development, with Spring Boot and Maven
-- JavaScript development with TypeScript, React and Node
-- Python development
+- JavaScript development, with React and Node
+- Python scripting
 - HTML, with styling using CSS, SCSS and Bootstrap
 - Version control with Git
 - SQL and NoSQL database integration, such as postgres and mongodb
