@@ -12,8 +12,8 @@
 - Version control with Git
 - SQL and NoSQL database integration, such as postgres and mongodb
 - Some mobile development with React Native
-- Deployment using Heroku, Netlify, Github Pages and AWS
-- CI/CD piplines with Travis CI
+- Deployment using Heroku, Netlify, Github Pages, AWS and Google Cloud
+- CI/CD piplines with Travis CI and Google Cloud
 - Dabbled in containerization using Docker and kubernetes clusters
 - Some cloud development with a AWS
 - Used monitoring technologies such as Kibana and Grafana
