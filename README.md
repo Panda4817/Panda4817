@@ -10,11 +10,11 @@
 - Python scripting
 - HTML, with styling using CSS, SCSS and Bootstrap
 - Version control with Git
-- SQL and NoSQL database integration, such as postgres and mongodb
+- SQL and NoSQL database integration, such as Postgresql and MongoDB
 - Some mobile development with React Native
 - Deployment using Heroku, Netlify, Github Pages, AWS and Google Cloud
 - CI/CD piplines with Travis CI and Google Cloud
 - Dabbled in containerization using Docker and kubernetes clusters
-- Some cloud development with a AWS
+- Some cloud development with a AWS and Google Cloud
 - Used monitoring technologies such as Kibana and Grafana
 - Worked in agile teams using JIRA ticket workflow
