@@ -13,8 +13,8 @@
 - SQL and NoSQL database integration, such as Postgresql and MongoDB
 - Some mobile development with React Native
 - Deployment using Heroku, Netlify, Github Pages, AWS and Google Cloud
-- CI/CD piplines with Travis CI and Google Cloud
+- CI/CD piplines with Travis CI
 - Dabbled in containerization using Docker and kubernetes clusters
 - Some cloud development with a AWS and Google Cloud
-- Used monitoring technologies such as Kibana and Grafana
+- Used monitoring technologies such as Kibana and Datadog
 - Worked in agile teams using JIRA ticket workflow
