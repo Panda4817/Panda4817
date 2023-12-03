@@ -1,5 +1,5 @@
 # Hello World! <img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/hello.gif" width="5%"/><img src="https://raw.githubusercontent.com/Panda4817/Panda4817/master/world.gif" width="5%"/>
-- I am a passionate self-taught software engineer
+- I am a passionate software developer
 - I love completing <a href="https://adventofcode.com/">Advent Of Code</a> challenges
 - See what I do on <a href="https://www.linkedin.com/in/kmunton">LinkedIn</a>
 
